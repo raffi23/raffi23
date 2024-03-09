@@ -24,7 +24,7 @@ I am a Senior Frontend Developer with a passion for animating the web.
 
 - Ancient fan of Manchester United football club
 - I only eat steaks 🥩
-- I love comedy and huge fan of `Dave Chappelle` `Bill Burr` `George Carlin`
+- Huge fan of `Dave Chappelle` `Bill Burr` `George Carlin`
 
 ## Contact
 
