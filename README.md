@@ -1,4 +1,4 @@
-[here]: https://rhymecode.net
+[rhymecode]: https://rhymecode.net
 [LinkedIn]: https://www.linkedin.com/in/raffi-chamakian
 
 # Hi there, I'm Raffi 🤝🏻
@@ -6,7 +6,7 @@
 I am a Senior Frontend Developer with a passion for animating the web.
 
 - I work remotely in Dubai.
-- I have recently started a software company rhymecode you can visit the website [here].
+- I have recently started a software company called [rhymecode].
 
 ## Tools I use
 
