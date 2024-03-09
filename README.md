@@ -1,14 +1,14 @@
 [here]: https://rhymecode.net
 [LinkedIn]: https://www.linkedin.com/in/raffi-chamakian
 
-## Hi there, I'm Raffi 🤝🏻
+# Hi there, I'm Raffi 🤝🏻
 
 I am a Senior Frontend Developer with a passion for animating the web.
 
 - I work remotely in Dubai.
 - I have recently started a software company rhymecode you can visit the website [link][here].
 
-### Tools I use
+## Tools I use
 
 **Frontend Development**: `React` `Next.js` `TypeScript` `Tailwind` `Framer-Motion`
 
@@ -20,12 +20,12 @@ I am a Senior Frontend Developer with a passion for animating the web.
 
 **Others**: `Storybook` `Zustand` `Jira`
 
-### Facts
+## Facts
 
 - Ancient fan of Manchester United football club
 - I only eat steaks 🥩
 - I love comedy and huge fan of `Dave Chappelle` `Bill Burr` `George Carlin`
 
-### Contact
+## Contact
 
 DM me on [LinkedIn].
