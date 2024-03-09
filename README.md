@@ -6,8 +6,8 @@
 
 I am a Senior Frontend Developer with a passion for animating the web.
 
-- I work remotely in Dubai.
-- You can find my portfolio at [rhymecode.net].
+- I work remotely in Dubai
+- You can find my portfolio at [rhymecode.net]
 - I am more active on [gitlab]
 
 ## Tools I use
