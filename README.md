@@ -12,7 +12,7 @@ I am a Senior Frontend Developer with a passion for animating the web.
 
 ## Tools I use
 
-**Frontend Development**: `React` `Next.js` `TypeScript` `Tailwind` `Framer-Motion`
+**Frontend Development**: `React` `Next.js` `Astro` `TypeScript` `Framer-Motion` `TailwindCSS` `Styled-Components`
 
 **Version Control**: `Git` `GitLab`
 
@@ -20,7 +20,7 @@ I am a Senior Frontend Developer with a passion for animating the web.
 
 **Testing**: `Cypress` `Postman` `Insomnia`
 
-**Others**: `Storybook` `Zustand` `Jira`
+**Others**: `Storybook` `Zustand` `Redux` `Jira`
 
 ## Facts
 
