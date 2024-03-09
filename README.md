@@ -1,5 +1,6 @@
 [rhymecode.net]: https://rhymecode.net
 [LinkedIn]: https://www.linkedin.com/in/raffi-chamakian
+[gitlab]: https://gitlab.com/raffi2377
 
 # Hi there, I'm Raffi 🤝🏻
 
@@ -7,6 +8,7 @@ I am a Senior Frontend Developer with a passion for animating the web.
 
 - I work remotely in Dubai.
 - You can find my portfolio at [rhymecode.net].
+- I am more active on [gitlab]
 
 ## Tools I use
 
