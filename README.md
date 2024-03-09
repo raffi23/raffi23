@@ -28,4 +28,4 @@ I am a Senior Frontend Developer with a passion for animating the web.
 
 ## Contact
 
-DM me on [LinkedIn].
+For business DM me on [LinkedIn].
