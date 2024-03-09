@@ -1,16 +1,26 @@
-### Hi there 👋
+[here]: http://rhymecode.net
 
-<!--
-**raffi23/raffi23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Raffi 🤝🏻
 
-Here are some ideas to get you started:
+I am a Senior Frontend Developer with a passion for animating the web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I work remotely in Dubai.
+- I have recently started a software company rhymecode you can visit the website [link][here].
+
+## Tools I use
+
+**Frontend Development**: `React` `Next.js` `TypeScript` `Tailwind` `Framer-Motion`
+
+**Version Control**: `Git` `GitLab`
+
+**Backend Development**: `Express.js` `Mongodb` `Firebase`
+
+**Testing**: `Cypress` `Postman` `Insomnia`
+
+**Others**: `Storybook` `Zustand` `Jira`
+
+## Facts
+
+- Ancient fan of Manchester United football club
+- I only eat steaks 🥩
+- I love comedy and huge fan of `Dave Chappelle` `Bill Burr` `George Carlin`
