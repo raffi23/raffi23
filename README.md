@@ -1,4 +1,4 @@
-[rhymecode.net]: https://rhymecode.net/work
+[rhymecode.net/work]: https://rhymecode.net/work
 [LinkedIn]: https://www.linkedin.com/in/raffi-chamakian
 [gitlab]: https://gitlab.com/raffi2377
 
