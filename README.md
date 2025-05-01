@@ -2,7 +2,7 @@
 [LinkedIn]: https://www.linkedin.com/in/raffi-chamakian
 [gitlab]: https://gitlab.com/raffi2377
 
-# Hey there 👋🏻 my name is Raffi.
+# Hey there 👋🏻 this is Raffi.
 
 I am a senior front-end developer based in Dubai, and I am passionate about animating the web.
 
