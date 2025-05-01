@@ -16,7 +16,7 @@ I am a senior front-end developer based in Dubai, and I am passionate about anim
 
 **Version Control**: `Git`, `GitHub`, `Gitlab`
 
-**Backend Development**: `Express.js`, `MongoDB ', `Firebase`, `Supabase`, `Next.js API routes`
+**Backend Development**: `Express.js`, `MongoDB`, `Firebase`, `Supabase`, `Next.js API routes`
 
 **Testing**: `Jest`, `Postman`
 
