@@ -12,7 +12,7 @@ I am a senior front-end developer based in Dubai, and I am passionate about anim
 
 ## Tools I use
 
-**Frontend Development**: `React`, `Next.js`, `Astro`, `TypeScript`, `motion`, `TailwindCSS`, `Styled-Components`
+**Frontend Development**: `React`, `Next.js`, `Astro`, `TypeScript`, `motion`, `GSAP`, `TailwindCSS`, `Styled-Components`
 
 **Version Control**: `Git`, `GitHub`, `Gitlab`
 
