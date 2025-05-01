@@ -1,26 +1,26 @@
-[rhymecode.net]: https://rhymecode.net/
+[rhymecode.net]: https://rhymecode.net
 [LinkedIn]: https://www.linkedin.com/in/raffi-chamakian
 [gitlab]: https://gitlab.com/raffi2377
 
 # Hi there, I'm Raffi 🤝🏻
 
-I am a Senior Frontend Developer with a passion for animating the web.
+I am a Senior Frontend Developer based in Dubai, passionate for animating the web.
 
-- I work remotely in Dubai
+- I can work remotely, full time, and part time
 - You can find my portfolio at [rhymecode.net]
 - You can also find me on [gitlab]
 
 ## Tools I use
 
-**Frontend Development**: `React` `Next.js` `Astro` `TypeScript` `Framer-Motion` `TailwindCSS` `Styled-Components`
+**Frontend Development**: `React` `Next.js` `Astro` `TypeScript` `motion` `TailwindCSS` `Styled-Components`
 
-**Version Control**: `Git` `GitLab`
+**Version Control**: `Git` `GitHub` `Gitlab`
 
-**Backend Development**: `Express.js` `Mongodb` `Firebase`
+**Backend Development**: `Express.js` `MongoDB` `Firebase` `Supabase` `Next.js API routes`
 
-**Testing**: `Cypress` `Postman` `Insomnia`
+**Testing**: `Jest` `Postman`
 
-**Others**: `Storybook` `Zustand` `Redux` `Jira`
+**Others**: `docker` `AWS S3` `AWS SNS` `AWS Amplify` `Vercel` `Zustand` `Jira`  `Figma`
 
 ## Facts
 
